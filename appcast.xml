@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Multitake</title>
+        <item>
+            <title>0.1</title>
+            <pubDate>Mon, 24 Aug 2026 23:15:37 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/fabds/multitake-releases/releases/download/updates/Multitake-0.1.zip" length="13769631" type="application/octet-stream" sparkle:edSignature="Yh7gnH8dY5D1IgauCQTcj1FNyuN6rweNhGrzhv7+ROX2GR/1T1I3Az4B1M/gTPm+vbb3MggT1eiRrxd8y8AGBA=="/>
+        </item>
+    </channel>
+</rss>
