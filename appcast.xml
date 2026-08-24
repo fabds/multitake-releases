@@ -3,6 +3,14 @@
     <channel>
         <title>Multitake</title>
         <item>
+            <title>0.2</title>
+            <pubDate>Mon, 24 Aug 2026 23:36:37 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/fabds/multitake-releases/releases/download/updates/Multitake-0.2.zip" length="13862001" type="application/octet-stream" sparkle:edSignature="RaMRZxygs8r/Dd6NeodEpiBmDP5hNtJagC7BuI/QjhZLPMCtYzJJcyTC+k6i6yjv8r2QxumQhPJ6Z35I1SFnCQ=="/>
+        </item>
+        <item>
             <title>0.1</title>
             <pubDate>Mon, 24 Aug 2026 23:15:37 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
