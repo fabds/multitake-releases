@@ -8,7 +8,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/fabds/multitake-releases/releases/download/updates/Multitake-0.2.zip" length="13862001" type="application/octet-stream" sparkle:edSignature="RaMRZxygs8r/Dd6NeodEpiBmDP5hNtJagC7BuI/QjhZLPMCtYzJJcyTC+k6i6yjv8r2QxumQhPJ6Z35I1SFnCQ=="/>
+            <enclosure url="https://github.com/fabds/multitake-releases/releases/download/updates/Multitake-0.2.zip" length="13863408" type="application/octet-stream" sparkle:edSignature="82Pe7R6kpDPmRV4/3uzOoIdotTIc8qAS8723EV3mJSXqjBMPqEZNsosxKR9XiOdNWQOulT3SfBPKhc4DyjLrCA=="/>
         </item>
         <item>
             <title>0.1</title>
