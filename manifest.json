@@ -1,6 +1,6 @@
 {
-  "latestVersion": "0.2",
-  "minimumSupportedVersion": "0.2",
+  "latestVersion": "0.3",
+  "minimumSupportedVersion": "0.3",
   "killSwitch": false,
   "downloadURL": "https://github.com/fabds/multitake-releases/releases/download/updates/Multitake-latest.dmg",
   "betaCodeHashes": [
