@@ -3,6 +3,18 @@
     <channel>
         <title>Multitake</title>
         <item>
+            <title>0.4</title>
+            <pubDate>Mon, 28 Sep 2026 23:00:48 +0200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/fabds/multitake-releases/releases/download/updates/Multitake-0.4.zip" length="18047502" type="application/octet-stream" sparkle:edSignature="+VVm+QVipPLeN25qSmHy/gRfoY3onABmnR45GTBgDz+oMbrugOfnzcDufhv5NuCttEi4lJjMm1mnWuvrMxLjCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/fabds/multitake-releases/releases/download/updates/Multitake4-3.delta" sparkle:deltaFrom="3" length="8308874" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nsmylsGn4Bj77tVkR2jG0RoXxWyZHKEVNohCsRVTJhkyOl16t6q0vnMdUPUIxtz99+DwaPQqhdSuj6HF7tLcDw=="/>
+                <enclosure url="https://github.com/fabds/multitake-releases/releases/download/updates/Multitake4-2.delta" sparkle:deltaFrom="2" length="9693366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="f+A8+DLxSTY0wwNQ4pMfoT7ZVpZDFcguthRatvJi/CdNj35/iTS8rWfYdyX3g7NaAfdpVoeD/qzMBAWHu6y4CQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3</title>
             <pubDate>Thu, 27 Aug 2026 12:12:06 +0200</pubDate>
             <sparkle:version>3</sparkle:version>
@@ -20,14 +32,6 @@
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/fabds/multitake-releases/releases/download/updates/Multitake-0.2.zip" length="13863408" type="application/octet-stream" sparkle:edSignature="82Pe7R6kpDPmRV4/3uzOoIdotTIc8qAS8723EV3mJSXqjBMPqEZNsosxKR9XiOdNWQOulT3SfBPKhc4DyjLrCA=="/>
-        </item>
-        <item>
-            <title>0.1</title>
-            <pubDate>Mon, 24 Aug 2026 23:15:37 +0200</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/fabds/multitake-releases/releases/download/updates/Multitake-0.1.zip" length="13769631" type="application/octet-stream" sparkle:edSignature="Yh7gnH8dY5D1IgauCQTcj1FNyuN6rweNhGrzhv7+ROX2GR/1T1I3Az4B1M/gTPm+vbb3MggT1eiRrxd8y8AGBA=="/>
         </item>
     </channel>
 </rss>
