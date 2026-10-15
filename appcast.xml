@@ -3,6 +3,20 @@
     <channel>
         <title>Multitake</title>
         <item>
+            <title>0.6</title>
+            <pubDate>Thu, 15 Oct 2026 17:49:32 +0200</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/fabds/multitake-releases/releases/download/updates/Multitake-0.6.zip" length="18929725" type="application/octet-stream" sparkle:edSignature="7njyaAD+FuOGnJEV41A5M8iFSBGBx65ZK47zJ7YLAVyYrptiDr6MW94gQGRDWGAMQDetoAmZhItBfmCJJctJDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/fabds/multitake-releases/releases/download/updates/Multitake6-5.delta" sparkle:deltaFrom="5" length="4258342" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qWueqxhxiNpx9ygBh+d/0hmHfUuP3YrCkSXNVAaGRILykl8OsaWAwky1mUjnJrnjzUNTI8zxX4leCl+tlh9SCw=="/>
+                <enclosure url="https://github.com/fabds/multitake-releases/releases/download/updates/Multitake6-4.delta" sparkle:deltaFrom="4" length="4335882" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5lacmCgf1SgUJpVl8H0IljdlWqzzjw0z3WnhDMePVk4misNbGouyPmv65MChTJTDBgpkbS3yWRWxu87qaRdWAg=="/>
+                <enclosure url="https://github.com/fabds/multitake-releases/releases/download/updates/Multitake6-3.delta" sparkle:deltaFrom="3" length="9280378" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FgAe3jV9nmlXAB4maaXtzI2JcrHDu8tkSdElmf+Dt73p8LT6w8DFpfGayhDsuotSPTeNAZu2eZ/gputgWiRDAw=="/>
+                <enclosure url="https://github.com/fabds/multitake-releases/releases/download/updates/Multitake6-2.delta" sparkle:deltaFrom="2" length="11150122" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6SmbX0AKy9uC+qPvmA+LBY48gS3EqTWbAGJc4UvCDsNjP/Y9CDaR21Epj6JpQiQylZuo/uZ2ZbcyjKEuHTp1Cg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.5</title>
             <pubDate>Tue, 29 Sep 2026 23:36:49 +0200</pubDate>
             <sparkle:version>5</sparkle:version>
@@ -25,17 +39,6 @@
             <sparkle:deltas>
                 <enclosure url="https://github.com/fabds/multitake-releases/releases/download/updates/Multitake4-3.delta" sparkle:deltaFrom="3" length="8308874" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nsmylsGn4Bj77tVkR2jG0RoXxWyZHKEVNohCsRVTJhkyOl16t6q0vnMdUPUIxtz99+DwaPQqhdSuj6HF7tLcDw=="/>
                 <enclosure url="https://github.com/fabds/multitake-releases/releases/download/updates/Multitake4-2.delta" sparkle:deltaFrom="2" length="9693366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="f+A8+DLxSTY0wwNQ4pMfoT7ZVpZDFcguthRatvJi/CdNj35/iTS8rWfYdyX3g7NaAfdpVoeD/qzMBAWHu6y4CQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3</title>
-            <pubDate>Thu, 27 Aug 2026 12:12:06 +0200</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/fabds/multitake-releases/releases/download/updates/Multitake-0.3.zip" length="17262828" type="application/octet-stream" sparkle:edSignature="ErgzanHJpesmdHmBjUXoBrUfhzuuoFowrev+BASZncPyYEPUPszwsxn0/EpV76JpD5I3EiT3g0Y27wwXgEINBQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/fabds/multitake-releases/releases/download/updates/Multitake3-2.delta" sparkle:deltaFrom="2" length="5416710" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1pQWYOj23naVTKa/G3F90rzZFfDtkSLQfP9EyECBt3Lxgx2R0u9Ei183uzVKg6HOqrtzBWERlHcdtkz+dDOEAQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
