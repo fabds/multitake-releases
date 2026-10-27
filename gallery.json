@@ -2,6 +2,10 @@
   "sections": [
     {
       "title": "Tutorials",
+      "videos": []
+    },
+    {
+      "title": "Best performances",
       "videos": [
         {
           "youtube": "https://www.youtube.com/watch?v=WqFSaIYzgeI",
@@ -9,10 +13,6 @@
           "subtitle": "Fabio Della Selva"
         }
       ]
-    },
-    {
-      "title": "Best performances",
-      "videos": []
     }
   ]
 }
