@@ -2,7 +2,13 @@
   "sections": [
     {
       "title": "Tutorials",
-      "videos": []
+      "videos": [
+        {
+          "youtube": "https://www.youtube.com/watch?v=WqFSaIYzgeI",
+          "title": "Anthem for the year 2000 - Drum Cover",
+          "subtitle": "Fabio Della Selva"
+        }
+      ]
     },
     {
       "title": "Best performances",
